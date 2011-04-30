@@ -1,0 +1,40 @@
+/* 
+    Document   : common
+    Created on : 30 avr. 2011, 19:45:20
+    Author     : Sazaju HITOKAGE <sazaju[at]gmail.com>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+div {
+    border: 1px solid #AAAAAA;
+    display: block;
+}
+
+#leftPanel {
+    float: left;
+    max-width: 20%;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+#menu {
+}
+
+#tools {
+    float: right;
+    max-width: 10%;
+}
